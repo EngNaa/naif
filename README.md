@@ -15,7 +15,7 @@ I used Classification algorithms of supervised learning. There are many differen
 > *  Logistic Regression.
 > *  K-Nearest Neighbor.
 > *  Random Forest Classification.
-> ### &nbsp;&nbsp;&nbsp; Supported Python version
+### &nbsp;&nbsp;&nbsp; Supported Python version
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.5+
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
